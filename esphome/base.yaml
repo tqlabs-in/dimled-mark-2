@@ -15,13 +15,13 @@ substitutions:
   default_brightness: 50%
 
 packages:
-  base: !include ../common/base.yaml
-  board: !include ../common/board/esp01.yaml
-  uart.disable: !include ../common/logger/disable.uart.yaml
-  wifi.stable: !include ../common/wifi/stable.yaml
-  wifi.no-reboot: !include ../common/wifi/no-reboot.yaml
-  api.no-reboot: !include ../common/api/no-reboot.yaml
-  sensor.wifi-signal: !include ../common/sensor/wifi-signal.yaml
+  base: !include common/base.yaml
+  board: !include common/board/esp01.yaml
+  uart.disable: !include common/logger/disable.uart.yaml
+  wifi.stable: !include common/wifi/stable.yaml
+  wifi.no-reboot: !include common/wifi/no-reboot.yaml
+  api.no-reboot: !include common/api/no-reboot.yaml
+  sensor.wifi-signal: !include common/sensor/wifi-signal.yaml
 
 esp8266:
   restore_from_flash: false

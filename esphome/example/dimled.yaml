@@ -4,4 +4,4 @@ substitutions:
   default_brightness: 50%
 
 packages:
-  dimled.mk2: !include github://tqlabs-in/dimled/esphome/base.yaml@mark2
+  dimled.mk2: github://tqlabs-in/dimled/esphome/base.yaml@mark2
