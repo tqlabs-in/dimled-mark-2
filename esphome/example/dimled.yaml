@@ -5,3 +5,8 @@ substitutions:
 
 packages:
   dimled.mk2: github://tqlabs-in/dimled/esphome/base.yaml@mark2
+  # dimled.mk2:
+  #   url: https://github.com/tqlabs-in/dimled
+  #   files: [ esphome/base.yaml ]
+  #   ref: mark2
+  #   refresh: always
