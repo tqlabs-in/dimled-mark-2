@@ -1,0 +1,8 @@
+# Docs: https://esphome.io/components/wifi.html
+---
+packages:
+  wifi.credentials: !include wifi/credentials.yaml
+  
+  # Fallback AP w Captive Portal
+  wifi.ap: !include wifi/ap.yaml
+  wifi.captive-portal: !include wifi/captive-portal.yaml

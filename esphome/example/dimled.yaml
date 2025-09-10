@@ -1,0 +1,7 @@
+substitutions:
+  device_name: dimled01
+  friendly_name: DimLED 01
+  default_brightness: 50%
+
+packages:
+  dimled.mk2: !include github://tqlabs-in/dimled/esphome/base.yaml@mark2
