@@ -1,0 +1,334 @@
+(footprint "XY_MOS-Module_Mounted"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0cf91868-5f45-4201-adac-debb1bbafa41")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XY_MOS"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e7d1cf3a-b274-400f-89a6-29882695e9e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea867d7a-e795-4c94-8c5e-3592d97721b6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2cf8ad9a-5591-47aa-a9e7-f48122b7ed9d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -8.382 -17)
+		(end 8.382 17)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "626ad97d-40b8-40d2-bc47-ed842691ee24")
+	)
+	(fp_circle
+		(center -7 15.05)
+		(end -6 15.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "08b3a4c4-6aeb-4272-a604-4230ce09d504")
+	)
+	(fp_circle
+		(center 7 15.05)
+		(end 8 15.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "8526b0dc-58b7-4b49-86f0-21fe204897b4")
+	)
+	(fp_rect
+		(start -8.5 -17.12)
+		(end 8.5 17.12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "53b55bca-f956-4094-b8f6-398dbba32939")
+	)
+	(fp_rect
+		(start -8.382 -17)
+		(end 8.382 17)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1c7c355e-80a3-46fe-a4a2-408673bf2820")
+	)
+	(fp_text user "GND"
+		(at 3 10 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2f8693c2-916b-4edd-92f8-126ce44cfa41")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "PWM"
+		(at -3 9.9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b0f463f8-d3bf-4f7c-9df0-a50a517101d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0d55a2b9-3286-4afa-a3b1-a562a1ca1ce0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" connect circle
+		(at 1.26 12.25 90)
+		(size 1.7 1.7)
+		(layers "F.Cu" "F.Mask")
+		(zone_connect 2)
+		(uuid "f4274e2d-775f-4f7f-ab93-5cebf3c713e4")
+	)
+	(pad "1" connect roundrect
+		(at 2.55 14.8)
+		(size 2.54 2)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.125)
+		(zone_connect 2)
+		(uuid "cdbd93e7-84f0-4223-bde8-c23e1e8dd84c")
+	)
+	(pad "1" connect circle
+		(at 3.8 12.25 90)
+		(size 1.7 1.7)
+		(layers "F.Cu" "F.Mask")
+		(zone_connect 2)
+		(uuid "5d6e9f51-b9d7-49d9-9243-d7dfdcf4c74e")
+	)
+	(pad "2" connect circle
+		(at -3.8 12.25 90)
+		(size 1.7 1.7)
+		(layers "F.Cu" "F.Mask")
+		(zone_connect 0)
+		(uuid "5b8e62a1-e7ec-43d4-bcbb-a48d9a1863b6")
+	)
+	(pad "2" connect roundrect
+		(at -2.5 14.8)
+		(size 2.54 2)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.09842519685)
+		(uuid "fe6469c3-f242-47a4-ad86-59e6218a4066")
+	)
+	(pad "2" connect circle
+		(at -1.26 12.25 90)
+		(size 1.7 1.7)
+		(layers "F.Cu" "F.Mask")
+		(zone_connect 0)
+		(uuid "549f3133-9c58-4aaa-8719-1df9adccd377")
+	)
+	(pad "3" connect roundrect
+		(at -4.45 -8.07 90)
+		(size 3 3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.08333333333)
+		(uuid "bc278a53-a3cd-439f-8fbd-d4119220ffdf")
+	)
+	(pad "4" connect roundrect
+		(at -4.45 -13.15 90)
+		(size 3 3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.08333333333)
+		(uuid "4cb9b58a-cb94-4288-b5f2-92eb2a9d995d")
+	)
+	(pad "5" connect roundrect
+		(at 4.45 -8.07 90)
+		(size 3 3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.08333333333)
+		(zone_connect 2)
+		(uuid "9c524d1b-6a05-4130-b769-1f6423a5be32")
+	)
+	(pad "6" connect roundrect
+		(at 4.45 -13.15 90)
+		(size 3 3)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.08333333333)
+		(uuid "290f3254-9383-4074-a86f-e1e8e2ec9648")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "d2cf1a5f-2c4f-453d-a1db-69f5570320d3")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -8.35 -10.95) (xy 8.3 -10.95) (xy 8.3 -16.95) (xy -8.35 -16.95)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "5b03e47a-883a-4e8c-a24a-7353b144d40e")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -8.3 -10.3) (xy -0.25 -10.3) (xy -0.25 1.95) (xy -8.3 1.95)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "48f87f6f-e635-4114-96ba-d26e93e99d35")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -0.25 16.95) (xy -0.25 10.85) (xy -8.35 10.85) (xy -8.35 16.95)
+			)
+		)
+	)
+	(group ""
+		(uuid "c8ccc76b-87a2-4955-bc43-06ce0365946e")
+		(members "4cb9b58a-cb94-4288-b5f2-92eb2a9d995d" "bc278a53-a3cd-439f-8fbd-d4119220ffdf")
+	)
+	(group ""
+		(uuid "e98547d8-16ab-476c-b011-38df03d0fab6")
+		(members "290f3254-9383-4074-a86f-e1e8e2ec9648" "9c524d1b-6a05-4130-b769-1f6423a5be32")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/models.3dshapes/XY-MOS_Module_NoHeaders.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

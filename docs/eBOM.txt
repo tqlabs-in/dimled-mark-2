@@ -1,0 +1,17 @@
+# Estimate BOM
+Date: 13-8-2025
+
+1.	ESP-01 ESP8266			Rs 86	https://robu.in/product/esp-01-esp8266-serial-wifi-wireless-transceiver-module/
+2. 	XY-MOS Trigger Module		Rs 25	https://robu.in/product/switch-drive-high-power-mosfet-trigger-module/
+3.	Mini MP1584 Buck Module		Rs 34	https://robu.in/product/mini-mp1584-dc-dc-3a-adjustable-buck-module-india/	
+4.	2 Pin Screw Block		Rs 10	https://robu.in/product/2-pin-straight-pcb-screw-terminal-block-connector-3-5mm-pitch/
+5.	DC-005A Connector		Rs 9	https://robu.in/product/dc-jack-005a/
+6.	Tactile Push Button		Rs 2	https://robu.in/product/6x6x5-tactile-push-button-switch/
+7.	1000uF THT Radial Capacitor	Rs 8	https://robu.in/product/ers1am102f16ot-aishi-1000uf-10v-%c2%b120-plugind8x16mm-aluminum-electrolytic-capacitors-leaded-rohs/
+8.	100nF THT Disk Cap		Rs 1	https://robu.in/product/100nf-50v-through-hole-multilayer-ceramic-capacitor/
+
+X. Component Total			Rs 187	[ 1 x 1,2,3,5,6,7,8 -- 2 x 4 ]
+Y. Extras				Rs 9	[ Basic Resistors, ESP01 Headers ]
+Z. PCB					Rs 144	[ Robu: 10 for Rs 1440 ]
+
+T. Grand Total				Rs 340
