@@ -2883,6 +2883,15 @@
 				(hide yes)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/switch-drive-high-power-mosfet-trigger-module/"
+			(at 210.82 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2ced3ae7-3c64-4337-8297-e20b8bf4c796")
 		)
@@ -3164,6 +3173,15 @@
 				(hide yes)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/"
+			(at 132.08 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7b7097a-05ed-4b02-9d70-5ebf8ca3a9ee")
 		)
@@ -3227,6 +3245,15 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 110.49 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/6x6x5-tactile-push-button-switch/"
+			(at 110.49 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3701,6 +3728,15 @@
 				(hide yes)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/"
+			(at 110.49 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d83c54ed-46f2-4080-8ba7-c094628485ad")
 		)
@@ -3904,6 +3940,15 @@
 				(hide yes)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/100nf-50v-through-hole-multilayer-ceramic-capacitor/"
+			(at 66.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49785392-0e3c-4d73-aca8-bffa6af0cfd1")
 		)
@@ -4099,6 +4144,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 177.8 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/xy306a-5-0-xinya-2-pin-screw-terminal-blockblue/"
 			(at 177.8 100.33 0)
 			(effects
 				(font
@@ -4509,6 +4563,15 @@
 				(hide yes)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/6x6x5-tactile-push-button-switch/"
+			(at 132.08 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9491c78c-89d1-4c74-b3e4-cf3b480e312d")
 		)
@@ -4637,6 +4700,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 52.07 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Robu.in" ""
 			(at 52.07 171.45 0)
 			(effects
 				(font
@@ -4857,6 +4929,15 @@
 				(hide yes)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/hy1c102m080160cd288-hyncdz-1000uf-16v-92m%cf%89100khz-%c2%b120-1-1a100khz-plugind8xl16mm-aluminum-electrolytic-capacitors-leaded-rohs/"
+			(at 81.28 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e1b25eaa-3cea-4763-9882-d6d277ab8bf4")
 		)
@@ -4918,6 +4999,15 @@
 		)
 		(property "Description" "MP1584 DC-DC Buck Convertor Module"
 			(at 130.048 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/mini-mp1584-dc-dc-3a-adjustable-buck-module-india/"
+			(at 128.27 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4993,6 +5083,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 180.34 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Robu.in" ""
 			(at 180.34 39.37 0)
 			(effects
 				(font
@@ -5205,6 +5304,15 @@
 				(hide yes)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/xy306a-5-0-xinya-2-pin-screw-terminal-blockblue/"
+			(at 39.37 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b266ca6c-d95e-4616-a6af-451bc48737a9")
 		)
@@ -5409,6 +5517,15 @@
 				(hide yes)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/dc-jack-005/"
+			(at 48.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "037139a0-0668-426f-acd5-d00597a36f97")
 		)
@@ -5538,6 +5655,15 @@
 			)
 		)
 		(property "Description" "ESP8266 ESP-01 module, v090"
+			(at 77.47 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/esp-01-esp8266-serial-wifi-wireless-transceiver-module/"
 			(at 77.47 100.33 0)
 			(effects
 				(font

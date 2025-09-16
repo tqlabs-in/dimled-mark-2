@@ -118,7 +118,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "DimLED_Mk2b.manufacturing/")
+			(outputdirectory "manufacturing/")
 		)
 	)
 	(net 0 "")
@@ -182,6 +182,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/mini-mp1584-dc-dc-3a-adjustable-buck-module-india/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5bbbbb0-4f4a-4b13-9d14-eadbec57ac76")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -623,6 +636,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/hy1c102m080160cd288-hyncdz-1000uf-16v-92m%cf%89100khz-%c2%b120-1-1a100khz-plugind8xl16mm-aluminum-electrolytic-capacitors-leaded-rohs/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dab75168-130a-4890-b9e4-bc5746ef4fdd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2355,6 +2381,19 @@
 				)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/dc-jack-005/"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab77889a-3538-4dd7-91ef-62c54a239dcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "BarrelJack*")
 		(path "/e891f58a-6471-48f1-93b8-701c3a2e686c")
 		(sheetname "/")
@@ -2614,6 +2653,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/6x6x5-tactile-push-button-switch/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0135192-e1b8-44c2-9e85-80d675991873")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2964,6 +3016,19 @@
 				)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/100nf-50v-through-hole-multilayer-ceramic-capacitor/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26622c8e-89d7-48a4-a231-c2d4eaabe67a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/46587cb9-e855-427e-aefe-51c5172424ad")
 		(sheetname "/")
@@ -3144,6 +3209,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/esp-01-esp8266-serial-wifi-wireless-transceiver-module/"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e161b32-f333-47d5-856f-ca829e30a57f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3437,6 +3515,19 @@
 				)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef69e70b-c682-481a-ac04-2f7965d1709b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/34e14fa4-ca60-4216-9bd8-aa708a6c200f")
 		(sheetname "/")
@@ -3638,6 +3729,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/6x6x5-tactile-push-button-switch/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22939078-4df6-4a98-994d-ebfaff799de4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3988,6 +4092,19 @@
 				)
 			)
 		)
+		(property "Robu.in" "https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e92ba0e6-9e95-4e4f-aee3-ab9ce61099b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1d9bbb9a-91ea-4832-aeae-80c0bc2c8223")
 		(sheetname "/")
@@ -4190,6 +4307,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/xy306a-5-0-xinya-2-pin-screw-terminal-blockblue/"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88eb1045-9a89-413a-a6ae-db0875b83f4c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4434,6 +4564,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f43be754-7eff-4079-b2d2-b48f57f8569e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4721,6 +4864,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d74393bd-117b-46f7-adb5-cd7afab8f1fa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5058,6 +5214,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/switch-drive-high-power-mosfet-trigger-module/"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65eb68c1-b725-4eff-9dbd-cd351cfb9900")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5427,6 +5596,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Robu.in" "https://robu.in/product/xy306a-5-0-xinya-2-pin-screw-terminal-blockblue/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41fb0890-84f3-4744-9b29-5199f6c3335e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
