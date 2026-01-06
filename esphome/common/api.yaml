@@ -1,8 +1,0 @@
-# Docs: https://esphome.io/components/api.html
----
-substitutions:
- api_encryption_key: !secret ESPHOME_API_ENC_KEY
-
-api:
-  encryption:
-    key: $api_encryption_key
