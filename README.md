@@ -1,8 +1,8 @@
-# DimLED
+# DimLED Mark II
 
 A simple led dimmer based on ESP-01 Module powered by esphome firmware.
 
-Checkout [iBOM](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tqlabs-in/dimled/mark2/output/bom/ibom.html) for more details.
+Checkout [iBOM](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tqlabs-in/dimled-mark-2/main/output/bom/ibom.html) for more details.
 
 ### Renders ( Mark II.b )
 
