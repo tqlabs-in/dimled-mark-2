@@ -1,0 +1,7 @@
+packages:
+  dimled: github://tqlabs-in/dimled-mark-2/esphome/device/base.yaml@main
+  # dimled:
+  #   url: https://github.com/tqlabs-in/dimled-mark-2/esphome
+  #   files: [device/base.yaml]
+  #   ref: main
+  #   refresh: always

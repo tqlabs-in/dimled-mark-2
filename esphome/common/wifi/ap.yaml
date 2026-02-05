@@ -1,9 +1,12 @@
+---
 substitutions:
-  wifi_ap_ssid: ESPHome $friendly_name
-  wifi_ap_password: !secret ESPHOME_FALLBACK_AP_PASSWORD
+  __package_ap_with_ssid:
+    ssid: ${wifi_ap_ssid}
+
+packages:
+  ap.ssid: ${__package_ap_with_ssid if wifi_ap_ssid is defined else {}}
 
 wifi:
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: $wifi_ap_ssid
-    password: $wifi_ap_password
+    password: ${wifi_ap_password | d("esphome.io")}
